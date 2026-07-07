@@ -44,6 +44,39 @@
 
 我们的团队曾参与并贡献过多个重要开源项目，覆盖数据库、存储格式、前端工具链与内容创作工具等方向：
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/apache/iotdb">
+        <img src="https://iotdb.apache.org/img/logo.svg" height="64" alt="Apache IoTDB logo">
+      </a>
+      <br>
+      <strong>Apache IoTDB</strong>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/apache/tsfile">
+        <img src="https://raw.githubusercontent.com/apache/tsfile/develop/docs/src/.vuepress/public/logo.svg" height="64" alt="Apache TsFile logo">
+      </a>
+      <br>
+      <strong>Apache TsFile</strong>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/rolldown/rolldown">
+        <img src="https://raw.githubusercontent.com/rolldown/rolldown/main/docs/public/logo-without-border.svg" height="64" alt="Rolldown logo">
+      </a>
+      <br>
+      <strong>Rolldown</strong>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Simon-He95/markstream-vue">
+        <img src="https://raw.githubusercontent.com/Simon-He95/markstream-vue/main/docs/public/logo.svg" height="64" alt="markstream-vue logo">
+      </a>
+      <br>
+      <strong>markstream-vue</strong>
+    </td>
+  </tr>
+</table>
+
 - [apache/iotdb](https://github.com/apache/iotdb)：面向时序数据与物联网场景的 Apache 顶级开源数据库项目。
 - [apache/tsfile](https://github.com/apache/tsfile)：Apache 生态下的高性能时序文件格式与存储基础设施。
 - [rolldown/rolldown](https://github.com/rolldown/rolldown)：面向下一代 JavaScript 工具链的高性能打包器。
