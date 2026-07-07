@@ -57,6 +57,17 @@
 
 我们的团队曾参与并贡献过多个重要开源项目，覆盖数据库、存储格式、前端工具链与内容创作工具等方向：
 
+<p align="center">
+  <a href="https://www.apache.org/">
+    <img src="https://www.apache.org/foundation/press/kit/asf_logo_wide.svg" width="500" alt="The Apache Software Foundation">
+  </a>
+  <br>
+  <strong>Apache 生态参与项目：</strong>
+  <a href="https://github.com/apache/iotdb">Apache IoTDB</a>
+  ·
+  <a href="https://github.com/apache/tsfile">Apache TsFile</a>
+</p>
+
 <table align="center">
   <tr>
     <td align="center" width="33%">
@@ -127,6 +138,22 @@
       <strong>EasyExcel</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/common-intellisense/common-intellisense">
+        <img src="https://raw.githubusercontent.com/common-intellisense/common-intellisense/main/icon.png" height="56" alt="common-intellisense logo">
+      </a>
+      <br>
+      <strong>common-intellisense</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vitejs/">
+        <img src="https://vite.dev/logo.svg" height="56" alt="Vite logo">
+      </a>
+      <br>
+      <strong>ViteJS</strong>
+    </td>
+  </tr>
 </table>
 
 - [apache/iotdb](https://github.com/apache/iotdb)：面向时序数据与物联网场景的 Apache 顶级开源数据库项目。
@@ -138,6 +165,8 @@
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api)：面向多模型接入与统一管理的开源 AI 网关项目。
 - [vuejs-translations/docs-zh-hk](https://github.com/vuejs-translations/docs-zh-hk)：Vue 官方文档繁体中文香港翻译项目。
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel)：阿里巴巴开源的高性能 Excel 处理项目。
+- [common-intellisense/common-intellisense](https://github.com/common-intellisense/common-intellisense)：面向通用智能提示能力的开源工具项目。
+- [vitejs](https://github.com/vitejs/)：下一代前端开发与构建工具生态。
 
 这些经历塑造了我们对工程质量的判断：真正有生命力的技术，既要能解决眼前的问题，也要经得起社区、规模、性能和时间的共同检验。
 
