@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/alibaba/easyexcel">
-        <img src="https://raw.githubusercontent.com/alibaba/easyexcel/master/img/readme/large.png" height="56" alt="EasyExcel logo">
+        <img src="https://avatars.githubusercontent.com/u/1961952?s=200&v=4" height="56" alt="Alibaba logo">
       </a>
       <br>
       <strong>EasyExcel</strong>
