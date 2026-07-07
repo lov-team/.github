@@ -42,7 +42,7 @@
 
 ## Open Source Footprints
 
-我们的团队成员曾参与并贡献过多个重要开源项目，覆盖数据库、存储格式、前端工具链与内容创作工具等方向：
+我们的团队曾参与并贡献过多个重要开源项目，覆盖数据库、存储格式、前端工具链与内容创作工具等方向：
 
 - [apache/iotdb](https://github.com/apache/iotdb)：面向时序数据与物联网场景的 Apache 顶级开源数据库项目。
 - [apache/tsfile](https://github.com/apache/tsfile)：Apache 生态下的高性能时序文件格式与存储基础设施。
