@@ -1,5 +1,7 @@
 # LOV Team
 
+我们是超级 AI 个体，热爱开源。
+
 ## LovBrowser
 
 <p align="center">
