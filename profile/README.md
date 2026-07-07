@@ -115,18 +115,18 @@
 
 项目说明：
 
-- LOV Team 参与并贡献 [Apache IoTDB](https://github.com/apache/iotdb)：面向物联网与时序数据场景的 Apache 顶级开源数据库。
-- LOV Team 参与并贡献 [Apache TsFile](https://github.com/apache/tsfile)：面向时序数据的高性能文件格式与存储基础设施。
-- LOV Team 参与并贡献 [Vue.js](https://github.com/vuejs/)：渐进式 JavaScript 框架及其生态。
-- LOV Team 参与并贡献 [ViteJS](https://github.com/vitejs/)：下一代前端开发服务器与构建工具生态。
-- LOV Team 参与并贡献 [Rolldown](https://github.com/rolldown/rolldown)：Rust 驱动的下一代 JavaScript 打包器。
-- LOV Team 参与并贡献 [markstream-vue](https://github.com/Simon-He95/markstream-vue)：Vue 生态的 Markdown 与流式内容渲染能力。
-- LOV Team 参与并贡献 [TDesign React](https://github.com/Tencent/tdesign-react)：腾讯 TDesign 体系的 React UI 组件库。
-- LOV Team 参与并贡献 [TDesign Common](https://github.com/Tencent/tdesign-common)：TDesign 跨端组件体系的公共能力与基础设施。
-- LOV Team 参与并贡献 [new-api](https://github.com/QuantumNous/new-api)：面向多模型接入、分发与统一管理的开源 AI 网关。
-- LOV Team 参与并贡献 [common-intellisense](https://github.com/common-intellisense/common-intellisense)：面向通用智能提示能力的开源工具项目。
-- LOV Team 参与并贡献 [docs-zh-hk](https://github.com/vuejs-translations/docs-zh-hk)：Vue 官方文档繁体中文香港翻译项目。
-- LOV Team 参与并贡献 [EasyExcel](https://github.com/alibaba/easyexcel)：阿里巴巴开源的高性能 Excel 处理项目。
+- [Apache IoTDB](https://github.com/apache/iotdb)：面向物联网与时序数据场景的 Apache 顶级开源数据库。
+- [Apache TsFile](https://github.com/apache/tsfile)：面向时序数据的高性能文件格式与存储基础设施。
+- [Vue.js](https://github.com/vuejs/)：渐进式 JavaScript 框架及其生态。
+- [ViteJS](https://github.com/vitejs/)：下一代前端开发服务器与构建工具生态。
+- [Rolldown](https://github.com/rolldown/rolldown)：Rust 驱动的下一代 JavaScript 打包器。
+- [markstream-vue](https://github.com/Simon-He95/markstream-vue)：Vue 生态的 Markdown 与流式内容渲染能力。
+- [TDesign React](https://github.com/Tencent/tdesign-react)：腾讯 TDesign 体系的 React UI 组件库。
+- [TDesign Common](https://github.com/Tencent/tdesign-common)：TDesign 跨端组件体系的公共能力与基础设施。
+- [new-api](https://github.com/QuantumNous/new-api)：面向多模型接入、分发与统一管理的开源 AI 网关。
+- [common-intellisense](https://github.com/common-intellisense/common-intellisense)：面向通用智能提示能力的开源工具项目。
+- [docs-zh-hk](https://github.com/vuejs-translations/docs-zh-hk)：Vue 官方文档繁体中文香港翻译项目。
+- [EasyExcel](https://github.com/alibaba/easyexcel)：阿里巴巴开源的高性能 Excel 处理项目。
 
 ## Thanks
 
