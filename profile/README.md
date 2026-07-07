@@ -1,12 +1,6 @@
 # LOV Team
 
 <p align="center">
-  <a href="https://www.apache.org/">
-    <img src="https://www.apache.org/foundation/press/kit/asf_logo_wide.svg" width="560" alt="The Apache Software Foundation">
-  </a>
-</p>
-
-<p align="center">
   <strong>Stay curious. Build deeply. Ship beautifully.</strong>
 </p>
 
