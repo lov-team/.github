@@ -22,6 +22,43 @@
 
 <table align="center">
   <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/vuejs/">
+        <img src="https://vuejs.org/logo.svg" height="56" alt="Vue.js logo">
+      </a>
+      <br>
+      <strong>Vue.js</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/vue-vine">
+        <img src="https://avatars.githubusercontent.com/u/134680595?s=200&v=4" height="56" alt="Vue Vine logo">
+      </a>
+      <br>
+      <strong>Vue Vine</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/vitejs/">
+        <img src="https://vite.dev/logo.svg" height="56" alt="Vite logo">
+      </a>
+      <br>
+      <strong>ViteJS</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/rolldown/rolldown">
+        <img src="https://raw.githubusercontent.com/rolldown/rolldown/main/docs/public/logo-without-border.svg" height="56" alt="Rolldown logo">
+      </a>
+      <br>
+      <strong>Rolldown</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Simon-He95/markstream-vue">
+        <img src="https://raw.githubusercontent.com/Simon-He95/markstream-vue/main/docs/public/logo.svg" height="56" alt="markstream-vue logo">
+      </a>
+      <br>
+      <strong>markstream-vue</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://github.com/apache/iotdb">
         <img src="https://iotdb.apache.org/img/logo.svg" height="56" alt="Apache IoTDB logo">
@@ -35,36 +72,6 @@
       </a>
       <br>
       <strong>Apache TsFile</strong>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/vuejs/">
-        <img src="https://vuejs.org/logo.svg" height="56" alt="Vue.js logo">
-      </a>
-      <br>
-      <strong>Vue.js</strong>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/vitejs/">
-        <img src="https://vite.dev/logo.svg" height="56" alt="Vite logo">
-      </a>
-      <br>
-      <strong>ViteJS</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/rolldown/rolldown">
-        <img src="https://raw.githubusercontent.com/rolldown/rolldown/main/docs/public/logo-without-border.svg" height="56" alt="Rolldown logo">
-      </a>
-      <br>
-      <strong>Rolldown</strong>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/Simon-He95/markstream-vue">
-        <img src="https://raw.githubusercontent.com/Simon-He95/markstream-vue/main/docs/public/logo.svg" height="56" alt="markstream-vue logo">
-      </a>
-      <br>
-      <strong>markstream-vue</strong>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/Tencent/tdesign-react">
@@ -118,6 +125,7 @@
 - [Apache IoTDB](https://github.com/apache/iotdb)：面向物联网与时序数据场景的 Apache 顶级开源数据库。
 - [Apache TsFile](https://github.com/apache/tsfile)：面向时序数据的高性能文件格式与存储基础设施。
 - [Vue.js](https://github.com/vuejs/)：渐进式 JavaScript 框架及其生态。
+- [Vue Vine](https://github.com/vue-vine)：面向 Vue 的组合式函数组件写法与编译工具生态。
 - [ViteJS](https://github.com/vitejs/)：下一代前端开发服务器与构建工具生态。
 - [Rolldown](https://github.com/rolldown/rolldown)：Rust 驱动的下一代 JavaScript 打包器。
 - [markstream-vue](https://github.com/Simon-He95/markstream-vue)：Vue 生态的 Markdown 与流式内容渲染能力。
