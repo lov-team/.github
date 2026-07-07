@@ -1,9 +1,4 @@
 # LOV Team
-
-<p align="center">
-  <strong>Stay curious. Build deeply. Ship beautifully.</strong>
-</p>
-
 <p align="center">
   <a href="https://github.com/lov-team">GitHub</a>
   ·
