@@ -13,6 +13,8 @@
 <p align="center">
   <a href="https://github.com/lov-team">GitHub</a>
   ·
+  <a href="https://lovbrowser.com/">LovBrowser</a>
+  ·
   <a href="https://github.com/apache/iotdb">Apache IoTDB</a>
   ·
   <a href="https://github.com/apache/tsfile">Apache TsFile</a>
@@ -27,6 +29,28 @@
 我们是 **LOV Team**，一群热爱钻研、相信长期主义，也真正热爱开源的技术创造者。
 
 我们关心的不只是“把功能做出来”，而是把复杂系统做清楚，把工程细节做到极致，把产品体验打磨到可以被人长期依赖。我们长期探索 AI 原生应用、开发者工具链、浏览器增强、音视频创作、数据基础设施与高性能工程系统，喜欢在真实问题里拆解本质，也喜欢在开源世界里与优秀的人一起把技术往前推一点。
+
+## Our Product
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://lovbrowser.com/">
+        <img src="https://lovbrowser.com/favicon.png" width="96" height="96" alt="LovBrowser logo">
+      </a>
+      <h3>LovBrowser</h3>
+      <p>
+        <strong>专业浏览器环境隔离系统</strong>
+      </p>
+      <p>
+        LovBrowser 是 LOV Team 重点打造的产品，面向多账号运营、AI 工作流、团队协作与安全隔离场景，提供独立环境、身份配置与自动化能力，让复杂的浏览器工作流变得稳定、清晰、可管理。
+      </p>
+      <p>
+        欢迎访问 <a href="https://lovbrowser.com/">lovbrowser.com</a> 体验使用。
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## What We Believe
 
